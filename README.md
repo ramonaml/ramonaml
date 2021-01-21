@@ -6,5 +6,5 @@
 ### It can also be a fantastic way to master any new programming language.
 
 
-![Image of cat](https://https://github.com/ramonaml/ramonaml/blob/main/cat.gif)
+![Image of cat](https://github.com/ramonaml/ramonaml/blob/main/cat.gif)
 
